@@ -1,4 +1,6 @@
 # 🚀 Microsoft: Classifying Cybersecurity Incidents with Machine Learning 🔒
+![Status](https://img.shields.io/badge/Status-Currently%20Working%20On-brightgreen?style=flat-square)
+
 
 ## Overview
 This project focuses on building a machine learning model to classify cybersecurity incidents into:
