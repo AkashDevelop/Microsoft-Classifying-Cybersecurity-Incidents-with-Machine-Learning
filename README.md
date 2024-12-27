@@ -81,7 +81,7 @@
 4️⃣ Evaluated model using **F1 score** with cross-validation.  
 
 📈 **Performance**:  
-- **Training F1 Score**: `96%`  
+- **Training F1 Score**: `93%`  
 
 ---
 
@@ -99,7 +99,7 @@
 - Loaded the saved model to make predictions.  
 
 📉 **Performance**:  
-- **Test F1 Score**: `59%`  
+- **Test F1 Score**: `88%`  
 
 ---
 
