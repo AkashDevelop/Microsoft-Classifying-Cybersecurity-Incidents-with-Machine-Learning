@@ -116,7 +116,7 @@
 
 | Metric        | Train F1 Score | Test F1 Score |  
 |---------------|----------------|---------------|  
-| **Accuracy**  | `96%`          | `59%`         |  
+| **Accuracy**  | `96%`          | `88%`         |  
 
 🔍 **Insights**:  
 - High training accuracy shows the model's strength in learning patterns.  
